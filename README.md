@@ -4,7 +4,11 @@
 -  - - Usage:
 
 1. Download the program
+```bash
+git clone https://github.com/Offensive-Penetration-Security/LinuxUserManager.git
+```
 2. Run the program as root user
+
 3. follow the steps
 
 - - - NOTE: This is release 1, soon we will be building more options on release 2 or directly 3... ;)
