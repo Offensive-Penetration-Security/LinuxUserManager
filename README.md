@@ -1,5 +1,5 @@
 # LinuxUserManager, the program for Beginners Linux users
-[![](https://github.com/Offensive-Penetration-Security/LinuxUserManager/blob/main/Program/logo/user_manager.jpg)](https://github.com/nu11secur1ty/LinuxUserManager/tree/main/Program)
+[![](https://github.com/Offensive-Penetration-Security/LinuxUserManager/blob/main/Program/logo/user_manager.jpg)](https://github.com/Offensive-Penetration-Security/LinuxUserManager/tree/main/Program)
 
 -  - - Usage:
 
