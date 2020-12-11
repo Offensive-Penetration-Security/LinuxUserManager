@@ -1,5 +1,7 @@
 #!/usr/bin/bash
-# usermanaget 0.01 by nu11secur1ty
+# usermanaget 0.01 by OPS 2020
+# Author @nu11secur1ty
+# Developers V.Varbanovski and G.Djankushev
 # Menu
 echo ""
 echo -e "\e[34mWELCOME TO THE USER MANAGER PROGRAM by OPS from V.Varbanovski\nSystem Administrator - Infrastructure, and Linux architect\e[0m"
